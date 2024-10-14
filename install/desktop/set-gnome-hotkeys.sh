@@ -1,8 +1,5 @@
 # quit app  
-gsettings set org.gnome.desktop.wm.keybindings close "['<Super>q']"
-
-# calc
-gsettings set org.cinnamon.desktop.keybindings.media-keys calculator "['<Super>c']"
+gsettings set org.cinnamon.desktop.keybindings.wm close "['<Super>q']"
 
 # email
 gsettings set org.cinnamon.desktop.keybindings.media-keys email "['<Super>e']"
