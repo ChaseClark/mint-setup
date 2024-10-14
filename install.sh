@@ -1,5 +1,5 @@
 # Exit immediately if a command exits with a non-zero status
-set -e
+# set -e
 
 # Ensure computer doesn't go to sleep or lock while installing
 gsettings set org.gnome.desktop.screensaver lock-enabled false
