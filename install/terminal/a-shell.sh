@@ -3,7 +3,7 @@
 # cp ~/.local/share/mint-setup/configs/bashrc ~/.bashrc
 
 # Load the PATH for use later in the installers
-source ~/.local/share/mint-setup/defaults/bash/shell
+# source ~/.local/share/mint-setup/defaults/bash/shell
 
 # [ -f "~/.inputrc" ] && mv ~/.inputrc ~/.inputrc.bak
 # # Configure the inputrc using mint-setup defaults
